@@ -1,0 +1,8 @@
+Origin: CYR580's Repo
+Label: CYR580's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: CYR580's Repo
